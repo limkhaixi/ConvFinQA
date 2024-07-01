@@ -1,0 +1,5 @@
+.venv/*
+.env
+test.py
+code/data/*
+!code/data/train.json
